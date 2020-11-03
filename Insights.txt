@@ -1,0 +1,35 @@
+insights i could get from the data
+
+combined data
+
+Single
+- traffic periods
+- number of cars from each base
+- location tracking on the map
+- number of trips
+- trips marking using lon and lat
+- frequent trips
+- areas with the most requests
+- hot pickup spots
+- estimated average speed (distance over time taken)
+- traffic detection
+- speed variation 
+- pick up wait times
+
+
+
+Montly
+- month comparisms
+- slowest and hottest month
+- number of trips per month comarism
+- hotspot per month
+
+Tasks
+identify each vehicle from each by checking location(lon and lat) at a certain time and identifying unique entries
+Create new columns
+finding a way to identify which cars made recurring trips if any,
+track individual cars by matching each new pick, find our how many cars were being tracked,
+check if each entry is from a unique vehicle
+
+see how to use QGIS to analyse the data or the python equivalent library
+

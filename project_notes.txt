@@ -1,0 +1,91 @@
+Uber TLC FOIL Response
+This directory contains data on over 4.5 million Uber pickups in New York City from April to September 2014.
+All the files are as they were received on August 3, Sept. 15 and Sept. 22, 2015.
+
+FiveThirtyEight obtained the data from the NYC Taxi & Limousine Commission (TLC) by submitting a Freedom of Information Law request on July 20, 2015. 
+The TLC has sent us the data in batches as it continues to review trip data Uber and other HFV companies have submitted to it. 
+The TLC's correspondence with FiveThirtyEight is included in the files TLC_letter.pdf, TLC_letter2.pdf and TLC_letter3.pdf. 
+TLC records requests can be made here.
+
+This data was used for four FiveThirtyEight stories: 
+Uber Is Serving New York’s Outer Boroughs More Than Taxis Are, 
+Public Transit Should Be Uber’s New Best Friend, 
+Uber Is Taking Millions Of Manhattan Rides Away From Taxis, 
+and Is Uber Making NYC Rush-Hour Traffic Worse?.
+
+The Data
+The dataset contains:
+
+Uber trip data from 2014 (April - September), separated by month, with detailed location information
+
+There are six files of raw data on Uber pickups in New York City from April to September 2014. The files are separated by month and each has the following columns:
+
+Date/Time : The date and time of the Uber pickup
+Lat : The latitude of the Uber pickup
+Lon : The longitude of the Uber pickup
+Base : The TLC base company code affiliated with the Uber pickup
+These files are named:
+
+uber-raw-data-apr14.csv
+uber-raw-data-aug14.csv
+uber-raw-data-jul14.csv
+uber-raw-data-jun14.csv
+uber-raw-data-may14.csv
+uber-raw-data-sep14.csv
+
+The Base codes are for the following Uber bases:
+
+B02512 : Unter llc newyork newyork
+B02598 : Hinter llc 
+B02617 : Weiter llc
+B02682 : Schmecken llc
+B02764 : Danach-NY llc
+## B02765 : Grun llc
+## B02835 : Dreist 
+## B02836 : Drinnen
+
+
+News Report
+
+A New York City administrative tribunal has suspended five Uber-owned car service bases until they hand over trip data, according to a ruling (PDF) issued Tuesday, 
+dealing the car service a loss on an issue it fought for months.
+
+The penalties are for refusing an Oct. 9 request from the Taxi & Limousine Commission to hand over electronic trip data for rides from April through mid-September. 
+The bases will not be allowed to legally operate until they comply and each pay $200 fine, according to the Taxi & Limousine Tribunal, a division of the city's Office of Administrative Trials and Hearings.
+
+Uber still has one base not affected by the ruling, and therefore can continue to operate legally in the city under the suspension.
+
+San Francisco-based Uber fought the request on constitutional grounds, 
+saying the commission was demanding trade secrets, 
+information that could harm its competitive position and possibly violate drivers' privacy. 
+
+Lyft and other competitors did not object to the request.
+
+However, Hearing Officer Ann Macadangdang dismissed those concerns, finding that the request only sought information about specific business engagements while drivers were working for Uber.
+
+"In addition, respondents undermined their own position by asserting that they have complied with the production of trip records in the past," she wrote. 
+
+"Respondents' past production of trip records seriously undercuts any present argument that this same information should be protected from disclosure as a trade secret."
+
+Uber has not immediately responded to a request for comment.
+
+The five bases affected by the decision are Weiter LLC, Hinter LLC, Schmecken LLC, Danach-NY, LLC and Unter LLC, all owned by Uber. 
+
+New York City requires Uber and its Internet competitors to operate from bases to dispatch rides. In many cities where Uber operates, it is a purely digital service.
+
+One Uber-affiliated base, Grun, is not part of the punishment. All dispatching activities for Uber now must go through that base until the suspension is lifted.
+
+"Uber continues to operate legally in New York City, 
+with tens of thousands of partner drivers and hundreds of thousands of riders relying on the Uber platform for economic opportunity and safe, 
+reliable rides," spokeswoman Natalia Montalvo said. "We are continuing a dialogue with the NYC Taxi and Limousine Commission on these issues."
+
+But if Uber and the regulators are still talking, rather than working through a legal dispute, that's news to a senior official. 
+
+"There's no open dialogue of which I am aware," commission spokesman Allan Fromberg said.
+
+In November, the commission adopted a new rule that requires Uber and its competitors to routinely share electronic trip data, 
+
+rather than on a per-request basis. Uber fought that rule change in addition to the Oct. 9 request.
+
+"This ruling really points to the importance of them gearing up to not only provide data on this one-time request, but for compliance on an ongoing basis," Fromberg said. 
+"That's what's important."
