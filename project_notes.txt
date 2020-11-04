@@ -35,7 +35,7 @@ uber-raw-data-sep14.csv
 
 The Base codes are for the following Uber bases:
 
-B02512 : Unter llc newyork newyork
+B02512 : Unter llc
 B02598 : Hinter llc 
 B02617 : Weiter llc
 B02682 : Schmecken llc
